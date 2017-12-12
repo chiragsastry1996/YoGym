@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YoGym</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Fill Content Here</string>
+    <string name="slide_1_desc">Fill Content HereFill Content HereFill Content HereFill Content Here</string>
+
+    <string name="slide_2_title">Fill Content Here</string>
+    <string name="slide_2_desc">Fill Content HereFill Content HereFill Content HereFill Content HereFill Content Here</string>
+
+    <string name="slide_3_title">Fill Content Here</string>
+    <string name="slide_3_desc">Fill Content HereFill Content HereFill Content HereFill Content Here</string>
+
+    <string name="slide_4_title">Fill Content Here</string>
+    <string name="slide_4_desc">Fill Content HereFill Content HereFill Content HereFill Content HereFill Content HereFill Content Here</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

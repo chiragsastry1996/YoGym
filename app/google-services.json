@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463372298803",
+    "project_id": "precise-victory-188816"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463372298803:android:aa4e9f0594d21d4d",
+        "android_client_info": {
+          "package_name": "com.acharya.yogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463372298803-f2drlkkpqfsnfregi3divfthk9hduntd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acharya.yogym",
+            "certificate_hash": "93f7d32fdef2bb445f89a3d5ef7191e03b153700"
+          }
+        },
+        {
+          "client_id": "463372298803-vto682lopqgttor8debplgtit15i3nbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxSiKYufruP1UjWWb5_6Rhtbyo_Kq3ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
